@@ -4,7 +4,7 @@
   "description": "Personalized Homey App for specific Sonos control options.",
   "main": "app.js",
   "dependencies": {
-    "sonos": "^1.12.0"
+    "sonos": "^1.14.1"
   },
   "devDependencies": {},
   "scripts": {
